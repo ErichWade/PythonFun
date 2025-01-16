@@ -1,7 +1,6 @@
 import keyboard
 import pyautogui
 import time
-import sys
 
 SAMPLE_RATE = .1
 positions = []
